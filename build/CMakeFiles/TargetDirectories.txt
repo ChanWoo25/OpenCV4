@@ -1,0 +1,3 @@
+/home/leecw/opencv/OpenCV4/ch02/HelloCV/build/CMakeFiles/rebuild_cache.dir
+/home/leecw/opencv/OpenCV4/ch02/HelloCV/build/CMakeFiles/HelloCV.dir
+/home/leecw/opencv/OpenCV4/ch02/HelloCV/build/CMakeFiles/edit_cache.dir
